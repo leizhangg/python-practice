@@ -1,4 +1,4 @@
-Question;
+## Question;
 Your task is to write a simple program that would allow a user to compute the cost of a road trip with a car. User will enter the total distance to be traveled 
 in miles along with the miles per gallon (MPG) information of the car he drives and the per gallon cost of gas. Using these 3 pieces of information you can 
 compute the gas cost of the trip. User will also enter the number of days it will take to complete the trip. For each night (day-1 nights), user will need a hotel.
